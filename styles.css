@@ -94,5 +94,5 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   .hero{min-height:clamp(565px,100vh,985px);min-height:clamp(565px,100svh,985px)}
   .hero-content{padding-top:calc(var(--header-height) + 70px)}
 }
-@media(max-width:820px){:root{--header-height:73px}}
+@media(max-width:820px){:root{--header-height:73px}body{background:var(--ink)}.site-header{margin-bottom:0}}
 @media(max-width:600px){:root{--header-height:69px}}
