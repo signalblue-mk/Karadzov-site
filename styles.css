@@ -115,3 +115,4 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   .hero-heading,.hero-details{padding-left:32px;padding-right:32px}
   .hero-media{max-width:640px;margin:0 32px}
 }
+.topic-equipment{aspect-ratio:4/5;overflow:hidden;background:#151c23}.topic-equipment img{width:100%;height:100%;object-fit:cover;object-position:center bottom;transform:scale(1.45);transform-origin:center bottom}
